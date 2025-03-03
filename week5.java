@@ -28,6 +28,12 @@ public class week5 {
 
         Pergis.display();
 
+        Esponga.display();
+
+
+       Corporal.display();
+
+	Lim.Display();
 
 
 
